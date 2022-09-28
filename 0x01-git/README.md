@@ -1,2 +1,1 @@
-
-This is for tutorials purposes 
+Get all changes of the main branch locally
